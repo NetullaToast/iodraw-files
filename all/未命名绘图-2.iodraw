@@ -34,8 +34,13 @@
             <mxPoint x="566" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ms4k-Iy_uGgootA0Lshd-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ms4k-Iy_uGgootA0Lshd-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-6" value="Seq=x" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

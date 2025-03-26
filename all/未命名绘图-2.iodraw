@@ -34,17 +34,17 @@
             <mxPoint x="566" y="266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ms4k-Iy_uGgootA0Lshd-6" value="Seq=x" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Seq=x&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="226" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SYN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="198" width="60" height="40" as="geometry" />
+          <mxGeometry x="365" y="186" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-11" value="Seq=y&lt;div&gt;ACK=x+1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="329" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ms4k-Iy_uGgootA0Lshd-12" value="SYN+ACK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="355" y="306" width="80" height="30" as="geometry" />
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SYN+ACK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="336" y="289" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

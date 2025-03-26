@@ -58,7 +58,7 @@
             <mxPoint x="572" y="483" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ms4k-Iy_uGgootA0Lshd-15" value="Seq=x" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-15" value="ACK=y+1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="443" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-16" value="ACK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">

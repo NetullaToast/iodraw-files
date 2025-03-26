@@ -97,8 +97,8 @@
             <mxPoint x="566" y="673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ms4k-Iy_uGgootA0Lshd-32" value="Send message &amp;amp; File" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="640" width="140" height="30" as="geometry" />
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Send message &amp;amp; File&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="635" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

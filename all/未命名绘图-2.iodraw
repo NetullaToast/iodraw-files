@@ -64,6 +64,9 @@
         <mxCell id="ms4k-Iy_uGgootA0Lshd-16" value="ACK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="371" y="413" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-21" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

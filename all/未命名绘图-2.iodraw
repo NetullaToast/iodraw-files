@@ -80,15 +80,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-27" value="Seq=y&lt;div&gt;ACK=x+1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="349" width="90" height="30" as="geometry" />
+          <mxGeometry x="351" y="653" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-28" value="SYN+ACK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="326" width="80" height="30" as="geometry" />
+          <mxGeometry x="356" y="630" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="589" y="390" as="sourcePoint" />
-            <mxPoint x="269" y="390" as="targetPoint" />
+            <mxPoint x="570" y="694" as="sourcePoint" />
+            <mxPoint x="250" y="694" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

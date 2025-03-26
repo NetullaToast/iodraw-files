@@ -5,12 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OtNb_K7BZ36V8BZ80Z31-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
+            <mxPoint x="170" y="310" as="sourcePoint" />
+            <mxPoint x="170" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

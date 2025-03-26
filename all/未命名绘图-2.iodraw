@@ -69,14 +69,26 @@
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255" y="544.58" as="sourcePoint" />
-            <mxPoint x="355" y="544.58" as="targetPoint" />
+            <mxPoint x="250" y="544.58" as="sourcePoint" />
+            <mxPoint x="350" y="544.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ms4k-Iy_uGgootA0Lshd-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="265" y="554.58" as="sourcePoint" />
-            <mxPoint x="365" y="554.58" as="targetPoint" />
+            <mxPoint x="450" y="544.58" as="sourcePoint" />
+            <mxPoint x="550" y="544.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-24" value="Seq=y&lt;div&gt;ACK=x+1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="339" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-25" value="SYN+ACK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="316" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ms4k-Iy_uGgootA0Lshd-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579" y="380" as="sourcePoint" />
+            <mxPoint x="259" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
